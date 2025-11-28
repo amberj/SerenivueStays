@@ -3,7 +3,7 @@
     <title>Serenivue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2025-11-29T03:36:56+05:30</updated>
+    <updated>2025-11-29T04:10:16+05:30</updated>
     <author>
         <name>Amber Jain</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://serenivue.com/chez-soi-2.html"/>
         <id>https://serenivue.com/chez-soi-2.html</id>
+        <media:content url="https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg" medium="image" />
 
         <updated>2025-11-29T03:36:48+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg" alt="" />
                     Chez soi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Chez soi</p>
             ]]>
         </content>
@@ -36,15 +39,18 @@
         </author>
         <link href="https://serenivue.com/chez-soi.html"/>
         <id>https://serenivue.com/chez-soi.html</id>
+        <media:content url="https://serenivue.com/media/posts/1/pipenv.webp" medium="image" />
 
         <updated>2025-11-29T03:10:08+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://serenivue.com/media/posts/1/pipenv.webp" alt="" />
                     Chez soi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://serenivue.com/media/posts/1/pipenv.webp" class="type:primaryImage" alt="" /></p>
                 <p>Chez soi</p>
             ]]>
         </content>

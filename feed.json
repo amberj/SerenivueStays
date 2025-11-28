@@ -15,13 +15,14 @@
             "title": "Chez Soi (copy)",
             "summary": "Chez soi",
             "content_html": "<p>Chez soi</p>",
+            "image": "https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg",
             "author": {
                 "name": "Amber Jain"
             },
             "tags": [
             ],
             "date_published": "2025-11-29T03:36:48+05:30",
-            "date_modified": "2025-11-29T03:36:56+05:30"
+            "date_modified": "2025-11-29T04:10:05+05:30"
         },
         {
             "id": "https://serenivue.com/chez-soi.html",
@@ -29,13 +30,14 @@
             "title": "Chez Soi",
             "summary": "Chez soi",
             "content_html": "<p>Chez soi</p>",
+            "image": "https://serenivue.com/media/posts/1/pipenv.webp",
             "author": {
                 "name": "Amber Jain"
             },
             "tags": [
             ],
             "date_published": "2025-11-29T03:10:08+05:30",
-            "date_modified": "2025-11-29T03:10:20+05:30"
+            "date_modified": "2025-11-29T04:10:16+05:30"
         }
     ]
 }
