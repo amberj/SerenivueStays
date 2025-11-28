@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Serenivue Stays</title>
-    <link href="https://amberj.github.io/SerenivueStays/feed.xml" rel="self" />
-    <link href="https://amberj.github.io/SerenivueStays" />
-    <updated>2025-11-29T03:10:20+05:30</updated>
+    <link href="https://serenivue.com/feed.xml" rel="self" />
+    <link href="https://serenivue.com" />
+    <updated>2025-11-29T03:36:56+05:30</updated>
     <author>
         <name>Amber Jain</name>
     </author>
-    <id>https://amberj.github.io/SerenivueStays</id>
+    <id>https://serenivue.com</id>
 
+    <entry>
+        <title>Chez Soi (copy)</title>
+        <author>
+            <name>Amber Jain</name>
+        </author>
+        <link href="https://serenivue.com/chez-soi-2.html"/>
+        <id>https://serenivue.com/chez-soi-2.html</id>
+
+        <updated>2025-11-29T03:36:48+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Chez soi
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Chez soi</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chez Soi</title>
         <author>
             <name>Amber Jain</name>
         </author>
-        <link href="https://amberj.github.io/SerenivueStays/chez-soi.html"/>
-        <id>https://amberj.github.io/SerenivueStays/chez-soi.html</id>
+        <link href="https://serenivue.com/chez-soi.html"/>
+        <id>https://serenivue.com/chez-soi.html</id>
 
         <updated>2025-11-29T03:10:08+05:30</updated>
             <summary>
