@@ -12,7 +12,7 @@
         {
             "id": "https://serenivue.com/chez-soi-2.html",
             "url": "https://serenivue.com/chez-soi-2.html",
-            "title": "Chez Soi (copy)",
+            "title": "Chez Soi (Near Bagmane)",
             "summary": "Chez soi",
             "content_html": "<p>Chez soi</p>",
             "image": "https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg",
@@ -20,9 +20,10 @@
                 "name": "Amber Jain"
             },
             "tags": [
+                   "Domlur (Indiranagar)"
             ],
             "date_published": "2025-11-29T03:36:48+05:30",
-            "date_modified": "2025-11-29T04:10:05+05:30"
+            "date_modified": "2025-11-29T04:23:21+05:30"
         },
         {
             "id": "https://serenivue.com/chez-soi.html",
@@ -35,9 +36,10 @@
                 "name": "Amber Jain"
             },
             "tags": [
+                   "C V Raman Nagar (Indiranagar)"
             ],
             "date_published": "2025-11-29T03:10:08+05:30",
-            "date_modified": "2025-11-29T04:10:16+05:30"
+            "date_modified": "2025-11-29T04:21:10+05:30"
         }
     ]
 }
