@@ -3,7 +3,7 @@
     <title>SereniVue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2025-11-29T21:57:13+05:30</updated>
+    <updated>2025-11-29T22:00:34+05:30</updated>
     <author>
         <name>Meet your host: Amber Jain</name>
     </author>
@@ -29,7 +29,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://serenivue.com/media/posts/2/20250909_165553.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://serenivue.com/media/posts/2/gallery/20250909_165728.jpg" data-size="4000x3000"><img loading="lazy" src="https://serenivue.com/media/posts/2/gallery/20250909_165728-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>View of Balcony from Living Room</figcaption>
 </figure>
@@ -107,6 +107,7 @@
 </div>
 <h2 id="mcetoc_1jb86h5eec0">Price</h2>
 <p>For Direct Bookings: INR 3100 per night (for stays less than 5 days). I offer discounts for longer stays, please connect with me on Whatsapp Chat so that we can discuss the same. </p>
+<p>Important points to keep in mind:</p>
 <ul>
 <li>You can pay via UPI (if you are from India) or via Paypal (if you are based outside India). Cash payments are not accepted.</li>
 <li>There is no security deposit, but 100% of amount needs to be paid before checkin.</li>
