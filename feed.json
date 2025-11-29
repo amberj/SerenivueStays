@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "SereniVue Stays",
+    "title": "Serenivue Stays",
     "description": "",
     "home_page_url": "https://serenivue.com",
     "feed_url": "https://serenivue.com/feed.json",
@@ -31,7 +31,6 @@
             "title": "Launching soon: Chez Nous (Private Room+Bathroom in a Shared Apartment in Indiranagar)",
             "summary": "chez nous /ʃeɪ nu/ORIGIN: french locution 1. at our place 2. at&hellip;",
             "content_html": "<div style=\"border: 1px solid #e0e0e0; padding: 25px; margin: 20px 0; border-radius: 8px;\"><address><strong>chez nous /ʃeɪ nu/</strong></address><address><span style=\"color: #7e8c8d;\">ORIGIN: french locution</span></address><address>    1. at our place</address><address>    2. at home</address><address>A beautiful French idiom that evokes the comfort and belonging you feel in living with your family in your home. It's essence is \"you're not a guest, you're one of us\" or \"family away from home\".</address></div>",
-            "image": "https://serenivue.com/media/posts/1/pipenv.webp",
             "author": {
                 "name": "Meet your host: Amber Jain"
             },
@@ -39,7 +38,7 @@
                    "C V Raman Nagar (Indiranagar)"
             ],
             "date_published": "2025-11-29T03:10:08+05:30",
-            "date_modified": "2025-11-29T22:22:06+05:30"
+            "date_modified": "2025-11-29T22:25:50+05:30"
         }
     ]
 }
