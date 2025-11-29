@@ -3,16 +3,16 @@
     <title>SereniVue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2025-11-29T15:31:05+05:30</updated>
+    <updated>2025-11-29T17:04:42+05:30</updated>
     <author>
-        <name>Amber Jain</name>
+        <name>Meet your host: Amber Jain</name>
     </author>
     <id>https://serenivue.com</id>
 
     <entry>
-        <title>Chez Soi (1BHK or 2BHK)</title>
+        <title>Chez Soi (1BHK) near Bagmane Tech Park (CV Raman Nagar)</title>
         <author>
-            <name>Amber Jain</name>
+            <name>Meet your host: Amber Jain</name>
         </author>
         <link href="https://serenivue.com/chez-soi-2.html"/>
         <id>https://serenivue.com/chez-soi-2.html</id>
@@ -30,13 +30,14 @@
             <![CDATA[
                     <p><img src="https://serenivue.com/media/posts/2/Amber-Jain-xl.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Chez soi</p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Chez Nous (Launching soon)</title>
         <author>
-            <name>Amber Jain</name>
+            <name>Meet your host: Amber Jain</name>
         </author>
         <link href="https://serenivue.com/chez-soi.html"/>
         <id>https://serenivue.com/chez-soi.html</id>
