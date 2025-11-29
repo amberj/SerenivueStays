@@ -3,14 +3,14 @@
     <title>SereniVue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2025-11-29T04:29:03+05:30</updated>
+    <updated>2025-11-29T13:49:25+05:30</updated>
     <author>
         <name>Amber Jain</name>
     </author>
     <id>https://serenivue.com</id>
 
     <entry>
-        <title>Chez Soi (Near Bagmane tech )</title>
+        <title>Chez Soi</title>
         <author>
             <name>Amber Jain</name>
         </author>
@@ -34,7 +34,7 @@
         </content>
     </entry>
     <entry>
-        <title>Chez Soi</title>
+        <title>Chez Nous (Launching soon)</title>
         <author>
             <name>Amber Jain</name>
         </author>
@@ -47,13 +47,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://serenivue.com/media/posts/1/pipenv.webp" alt="" />
-                    Chez soi
+                    Chez Nous
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://serenivue.com/media/posts/1/pipenv.webp" class="type:primaryImage" alt="" /></p>
-                <p>Chez soi</p>
+                <p>Chez Nous</p>
             ]]>
         </content>
     </entry>
