@@ -3,7 +3,7 @@
     <title>Serenivue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2025-12-11T19:08:04+05:30</updated>
+    <updated>2026-01-13T00:06:41+05:30</updated>
     <author>
         <name>Meet your host: Amber Jain</name>
     </author>
@@ -151,6 +151,11 @@
 <h2 id="mcetoc_1jb85eftdbh">House Rules</h2>
 <p> </p>
 <h2 id="mcetoc_1jb85gmavbq">Check-in and check-out</h2>
+<p> </p>
+<h2>Airbnb listing</h2>
+<div class="airbnb-embed-frame" style="width: 450px; height: 300px; margin: auto;" data-id="1449271062503407020" data-view="home" data-hide-price="true"><a href="https://www.airbnb.co.in/rooms/1449271062503407020?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.in/rooms/1449271062503407020?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Apartment in Bengaluru · ★5.0 · 1 bedroom · 1 bed · 2 bathrooms</a>
+<script async="" src="https://www.airbnb.co.in/embeddable/airbnb_jssdk"></script>
+</div>
             ]]>
         </content>
     </entry>
