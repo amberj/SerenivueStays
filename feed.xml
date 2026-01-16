@@ -3,7 +3,7 @@
     <title>Serenivue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2026-01-13T00:06:41+05:30</updated>
+    <updated>2026-01-16T12:58:19+05:30</updated>
     <author>
         <name>Meet your host: Amber Jain</name>
     </author>
@@ -156,6 +156,30 @@
 <div class="airbnb-embed-frame" style="width: 450px; height: 300px; margin: auto;" data-id="1449271062503407020" data-view="home" data-hide-price="true"><a href="https://www.airbnb.co.in/rooms/1449271062503407020?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.in/rooms/1449271062503407020?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Apartment in Bengaluru · ★5.0 · 1 bedroom · 1 bed · 2 bathrooms</a>
 <script async="" src="https://www.airbnb.co.in/embeddable/airbnb_jssdk"></script>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chez Enclave (Private Room+Bathroom in a Shared Apartment in Indiranagar)</title>
+        <author>
+            <name>Meet your host: Amber Jain</name>
+        </author>
+        <link href="https://serenivue.com/chez-soi.html"/>
+        <id>https://serenivue.com/chez-soi.html</id>
+        <media:content url="https://serenivue.com/media/posts/1/coming-soon.jpg" medium="image" />
+            <category term="C V Raman Nagar (Indiranagar)"/>
+
+        <updated>2025-11-29T03:10:08+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://serenivue.com/media/posts/1/coming-soon.jpg" alt="" />
+                    Chez Enclave /ʃeɪ ɒnˈkleɪv/ORIGIN: french-english compound 1. within our circle 2. among&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://serenivue.com/media/posts/1/coming-soon.jpg" class="type:primaryImage" alt="" /></p>
+                <div style="border: 1px solid #e0e0e0; padding: 25px; margin: 20px 0; border-radius: 8px;"><address><strong>Chez Enclave /ʃeɪ ɒnˈkleɪv/</strong></address><address><span style="color: #7e8c8d;">ORIGIN: french-english compound</span></address><address>    1. within our circle</address><address>    2. among our home</address><address>A beautiful French idiom that evokes the comfort and belonging you feel in living with your family in your home. It's essence is "you're not a guest, you're one of us" or "you need no invitation."</address></div>
             ]]>
         </content>
     </entry>
