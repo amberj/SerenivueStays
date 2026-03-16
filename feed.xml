@@ -3,7 +3,7 @@
     <title>Serenivue Stays</title>
     <link href="https://serenivue.com/feed.xml" rel="self" />
     <link href="https://serenivue.com" />
-    <updated>2026-01-16T16:48:47+05:30</updated>
+    <updated>2026-03-16T15:03:43+05:30</updated>
     <author>
         <name>Meet your host: Amber Jain</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Domlur (Indiranagar)"/>
 
         <updated>2026-01-16T13:00:10+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://serenivue.com/media/posts/4/20250909_165728.jpg" alt="" />
                     Living Room Living and Dining Area Dining Room Dining and Living Area&hellip;
@@ -168,7 +168,7 @@
             <category term="Domlur (Indiranagar)"/>
 
         <updated>2025-11-29T03:36:48+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://serenivue.com/media/posts/2/20250909_165553.jpg" alt="" />
                     View of Balcony from Living Room Living Room Living and Dining Area&hellip;
@@ -309,7 +309,7 @@
         </content>
     </entry>
     <entry>
-        <title>Chez Enclave (Private Room+Bathroom in a Shared Apartment in Indiranagar)</title>
+        <title>Coming Soon! Chez Enclave (Private Room+Bathroom in a Shared Apartment in Indiranagar)</title>
         <author>
             <name>Meet your host: Amber Jain</name>
         </author>
@@ -319,7 +319,7 @@
             <category term="C V Raman Nagar (Indiranagar)"/>
 
         <updated>2025-11-29T03:10:08+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://serenivue.com/media/posts/1/coming-soon.jpg" alt="" />
                     Chez Enclave /ʃeɪ ɒnˈkleɪv/ORIGIN: french-english compound 1. within our circle 2. among&hellip;
